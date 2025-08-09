@@ -1,17 +1,22 @@
-<h1 align="start">AKASH-MD-V4 💫 🐍💀/-</h1>
+<h1 align="start">N-TECH OFFICIAL🎧</h1>
 
 <p align="start">
-  <img src="https://img.shields.io/badge/Build-Passing-brightgreen?style=flat-square"/>
+  <img src="https://files.catbox.moe/2d7onp.jpg"/>
   <img src="https://img.shields.io/badge/Powered%20By-Baileys-blue?style=flat-square"/>
   <img src="https://img.shields.io/github/stars/panda3diitx/aesthetic?style=social"/>
 </p>
 
 <p align="start">
-  AI-powered WhatsApp Multi-Device Bot 🦋·•°
+  N-TECH Powered WhatsApp Multi-Device Bot 🦋·•°
 </p>
 </p>
 
 ---
+
+## PREMUM FEATURES 👑
+- ❤ WhatsApp Channel Boost
+- 🎧 Channel React Service
+- 🤝 Channel Sell
 
 ## 🌟 Features
 
